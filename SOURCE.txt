@@ -1,0 +1,14 @@
+a=int(input("Enter a"))
+b=int(input("Enter b"))
+c=int(input("Enter c"))
+total=a+b+c
+average=(total)/3
+print("Total is",total)
+print("Average is",average)
+
+OUTPUT:
+Enter a4
+Enter b6
+Enter c8
+Total is 18
+Average is 6.0
